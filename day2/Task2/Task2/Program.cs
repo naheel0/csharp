@@ -21,7 +21,7 @@ for(int i = mid-1; i>=0; i--)
         Console.Write(" ");
 
     }
-    for (int j = 0; j < 2 * i + 1; j++)
+    for (int j = 0; j < 2 * i +1; j++)
     {
         Console.Write("*");
     }
